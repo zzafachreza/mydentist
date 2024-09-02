@@ -36,6 +36,13 @@
         </div>
     </div>
 
+     <div style="position:absolute;bottom:10px;right:10px;width:50%">
+      <a href="<?php echo site_url('home/menu') ?>" >
+                        <img src="<?php echo site_url('gambar/selesai.png') ?>" width="100%"  />
+      </a>
+ </div>
+  
+
 
  
 

@@ -7,7 +7,7 @@
 <div class="container-fluid" style="position:relative;height:100%;">
     
       <div class="row" style="height:60px;margin-bottom:10px;padding-top:20px;padding-left:20px;background-color:<?php echo $comp->warna_utama ?>;border-bottom-right-radius:10px;border-bottom-left-radius:10px;">
-        <div style="width:20%;position:absolute" onClick="window.location.href='<?php echo site_url('home/mol') ?>'">
+        <div style="width:20%;position:absolute" onClick="window.location.href='<?php echo site_url('home/molpilih') ?>'">
             <span><i class="flaticon2-left-arrow-1 text-white"></i></span>
         </div>
           <div style="width:100%;">
@@ -46,7 +46,7 @@
 </div>
 
     
- <div onClick="window.location.href='<?php echo site_url('home/moldetail/7/Kesehatan Gigi Anak') ?>'" style="position:absolute;z-index:1;bottom:0px;">
+ <div  style="position:absolute;z-index:-10;bottom:0px;">
      
        
          <img src="<?php echo site_url('gambar/mol0.png') ?>" width="100%" />

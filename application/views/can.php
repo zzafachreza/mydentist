@@ -25,7 +25,7 @@
      </figure>
  
  <div style="position:absolute;bottom:10px;right:10px;width:50%">
-      <a href="<?php echo site_url('home/can1') ?>" >
+      <a href="<?php echo site_url('home/can3') ?>" >
                         <img src="<?php echo site_url('gambar/next.png') ?>" width="100%"  />
       </a>
  </div>

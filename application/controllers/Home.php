@@ -142,6 +142,22 @@ class Home extends CI_Controller{
 		}
 	}
 	
+
+			function molpilih(){
+
+		if (!isset($_SESSION['username'])) {
+			redirect('login');
+		}else{
+		    
+		    $data['comp'] = $this->db->query("SELECT * FROM data_company limit 1")->row_object();
+		    
+					$this->load->view('header',$data);
+			$this->load->view('molpilih');
+			$this->load->view('footer');
+		}
+	}
+	
+
 			function molmenu(){
 
 		    $data['comp'] = $this->db->query("SELECT * FROM data_company limit 1")->row_object();

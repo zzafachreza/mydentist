@@ -121,28 +121,28 @@
                                 $top=310;
                                 $left=15;
                                 $text ='gigi geraham besar ketiga rahang bawah';
-                                $ket= 'aku biasanya erupsi umur 6-7 tahun';
+                                $ket= 'aku biasanya erupsi umur 17-21 tahun';
                                 $width=35;
                                 break;
                              case 10:
                                $top=340;
                                 $left=20;
                                   $text = 'gigi geraham besar kedua rahang bawah';
-                                  $ket= 'aku biasanya erupsi umur 7-8 tahun';
+                                  $ket= 'aku biasanya erupsi umur 11-13 tahun';
                                   $width=35;
                                 break;
                             case 11:
                                 $top=380;
                                 $left=25;
                                   $text = 'gigi geraham besar pertama rahang bawah';
-                                  $ket ='aku biasanya erupsi umur 9-10 tahun';
+                                  $ket ='aku biasanya erupsi umur 6-7 tahun';
                                   $width=40;
                                 break;
                              case 12:
                                 $top=425;
                                 $left=40;
                                   $text = 'gigi geraham kecil kedua rahang bawah';
-                                  $ket ='aku biasanya erupsi umur 10-12 tahun';
+                                  $ket ='aku biasanya erupsi umur 11-12 tahun';
                                   $width=40;
                                 break;
                              case 13:
@@ -156,7 +156,7 @@
                                 $top=480;
                                 $left=80;
                                   $text = 'gigi taring rahang bawah';
-                                  $ket ='aku biasanya erupsi umur 6-7 tahun';
+                                  $ket ='aku biasanya erupsi umur 9-10 tahun';
                                   $width=35;
                                 break;
 
@@ -164,7 +164,7 @@
                                 $top=500;
                                 $left=105;
                                   $text = 'gigi seri kedua rahang atas ';
-                                  $ket ='aku biasanya erupsi umur 11-13 tahun';
+                                  $ket ='aku biasanya erupsi umur 7-8 tahun';
                                   $width=35;
                                 break;
 
@@ -172,7 +172,7 @@
                                 $top=510;
                                 $left=140;
                                   $text = 'gigi seri pertama rahang atas';
-                                  $ket ='aku biasanya erupsi umur 17-21 tahun';
+                                  $ket ='aku biasanya erupsi umur 6-7 tahun';
                                   $width=30;
                                 break;
                             
@@ -283,28 +283,28 @@
                                 $top=310;
                                 $left=15;
                                 $text ='gigi geraham besar ketiga rahang bawah';
-                                $ket= 'aku biasanya erupsi umur 6-7 tahun';
+                                $ket= 'aku biasanya erupsi umur 17-21 tahun';
                                 $width=35;
                                 break;
                              case 10:
                                $top=340;
                                 $left=20;
                                   $text = 'gigi geraham besar kedua rahang bawah';
-                                  $ket= 'aku biasanya erupsi umur 7-8 tahun';
+                                  $ket= 'aku biasanya erupsi umur 11-13 tahun';
                                   $width=35;
                                 break;
                             case 11:
                                 $top=380;
                                 $left=25;
                                   $text = 'gigi geraham besar pertama rahang bawah';
-                                  $ket ='aku biasanya erupsi umur 9-10 tahun';
+                                  $ket ='aku biasanya erupsi umur 6-7 tahun';
                                   $width=40;
                                 break;
                              case 12:
                                 $top=425;
                                 $left=40;
                                   $text = 'gigi geraham kecil kedua rahang bawah';
-                                  $ket ='aku biasanya erupsi umur 10-12 tahun';
+                                  $ket ='aku biasanya erupsi umur 11-12 tahun';
                                   $width=40;
                                 break;
                              case 13:
@@ -318,23 +318,23 @@
                                 $top=480;
                                 $left=80;
                                   $text = 'gigi taring rahang bawah';
-                                  $ket ='aku biasanya erupsi umur 6-7 tahun';
+                                  $ket ='aku biasanya erupsi umur 9-10 tahun';
                                   $width=35;
                                 break;
 
                             case 15:
                                 $top=500;
                                 $left=105;
-                                  $text = 'gigi seri kedua rahang atas ';
-                                  $ket ='aku biasanya erupsi umur 11-13 tahun';
+                                  $text = 'gigi seri kedua rahang bawah ';
+                                  $ket ='aku biasanya erupsi umur 7-8 tahun';
                                   $width=35;
                                 break;
 
                                case 16:
                                 $top=510;
                                 $left=140;
-                                  $text = 'gigi seri pertama rahang atas';
-                                  $ket ='aku biasanya erupsi umur 17-21 tahun';
+                                  $text = 'gigi seri pertama rahang bawah';
+                                  $ket ='aku biasanya erupsi umur 6-7 tahun';
                                   $width=30;
                                 break;
                             
