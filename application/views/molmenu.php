@@ -46,15 +46,15 @@
 </div>
 
     
- <div style="position:absolute;z-index:-99;bottom:0px;">
+ <div onClick="window.location.href='<?php echo site_url('home/moldetail/7/Kesehatan Gigi Anak') ?>'" style="position:absolute;z-index:1;bottom:0px;">
      
-        <figure>
-         <img class="zoom" src="<?php echo site_url('gambar/mol0.png') ?>" width="100%" />
-     </figure>
-     
+       
+         <img src="<?php echo site_url('gambar/mol0.png') ?>" width="100%" />
+
     
  </div>
  
-
+     
+     
   
 </div>

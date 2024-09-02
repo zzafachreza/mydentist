@@ -20,7 +20,7 @@
     </div>
     
      <figure>
-         <img class="zoom" src="<?php echo site_url('gambar/inc.png') ?>" width="100%" />
+         <img style="margin-top: 20%" class="zoom" src="<?php echo site_url('gambar/inc.svg') ?>" width="100%" />
      </figure>
  
  <div style="position:absolute;bottom:10px;right:10px;width:50%">

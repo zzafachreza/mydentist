@@ -21,14 +21,16 @@
     
 
         <figure>
-         <img class="zoom" src="<?php echo site_url('gambar/pre2.png') ?>" width="100%" />
+         <img class="zoom" src="<?php echo site_url('gambar/pre2.svg') ?>" width="100%" />
      </figure>
+    
+
     
 
  
  <div style="position:absolute;bottom:10px;right:10px;width:50%">
-      <a href="<?php echo site_url('home/pre3') ?>"  >
-                        <img src="<?php echo site_url('gambar/next.png') ?>" width="100%"  />
+      <a href="<?php echo site_url('home/menu') ?>"  >
+                        <img src="<?php echo site_url('gambar/selesai.png') ?>" width="100%"  />
       </a>
  </div>
   

@@ -102,22 +102,18 @@ $comp = $hasilCom->result();
 
 <body style="background-color:<?php echo $comp[0]->warna_kedua ?>" >
   
-<div class="container" style="padding-top: 20%">
+<div class="container-fluid" style="padding-top: 50%">
 
 
-  <div class="col col-sm-12">
       <center>
-  <img src="<?php echo site_url('gambar/bg1.png') ?>" width="100%">
-                <center>
-                   <p><strong>My Dentist</strong></p>
-            
-              </center>
+          <img src="<?php echo site_url('gambar/bg11.png') ?>" width="100%">
+              
       </center>
   
     
 
 
-  </div>
+
 
 </div>
 

@@ -26,14 +26,20 @@
         </div>
     </div>
             <figure>
-         <img class="zoom" src="<?php echo site_url('gambar/mol'.$img.'.png') ?>" width="100%" />
+         <img class="zoom" src="<?php echo site_url('gambar/mol'.$img.'.svg') ?>" width="100%" />
      </figure>
      
  
  <div style="position:absolute;bottom:10px;right:10px;width:50%">
-      <a href="<?php echo site_url('home/molmenu') ?>">
+     <?php if($img >6 && $img <13){ ?>
+ <a href="<?php echo site_url('home/moldetail/'.($img+1).'/Kesehatan Gigi Anak') ?>">
+                        <img src="<?php echo site_url('gambar/next.png') ?>" width="100%"  />
+      </a>
+     <?php }else{ ?>
+       <a href="<?php echo site_url('home/molmenu') ?>">
                         <img src="<?php echo site_url('gambar/selesai.png') ?>" width="100%"  />
       </a>
+    <?php } ?>
  </div>
   
 </div>

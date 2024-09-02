@@ -186,6 +186,24 @@ class Home extends CI_Controller{
 			$this->load->view('footer');
 		
 	}
+
+			 function can4(){
+
+		    $data['comp'] = $this->db->query("SELECT * FROM data_company limit 1")->row_object();
+			$this->load->view('header',$data);
+			$this->load->view('can4');
+			$this->load->view('footer');
+		
+	}
+			 function can5(){
+
+		    $data['comp'] = $this->db->query("SELECT * FROM data_company limit 1")->row_object();
+			$this->load->view('header',$data);
+			$this->load->view('can5');
+			$this->load->view('footer');
+		
+	}
+
 	
 	function map(){
 

@@ -21,7 +21,7 @@
     
    
         <figure>
-         <img class="zoom" src="<?php echo site_url('gambar/mol.png') ?>" width="100%" />
+         <img class="zoom" src="<?php echo site_url('gambar/mol.svg') ?>" width="100%" />
      </figure>
  
  <div style="position:absolute;bottom:10px;right:10px;width:50%">
