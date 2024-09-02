@@ -36,7 +36,7 @@
                         <img src="<?php echo site_url('gambar/next.png') ?>" width="100%"  />
       </a>
      <?php }else{ ?>
-       <a href="<?php echo site_url('home/molmenu') ?>">
+       <a href="<?php echo site_url('home/molpilih') ?>">
                         <img src="<?php echo site_url('gambar/selesai.png') ?>" width="100%"  />
       </a>
     <?php } ?>
